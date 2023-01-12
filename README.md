@@ -10,7 +10,8 @@
 
 ***General***
 
-*- 
+*Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia, mediante el armado del circuito esquematizado en la guía 
+ de laboratorio en forma física y simulada, para demostrar dicho teorema*
  
 ***Especificos*** 
 
