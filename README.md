@@ -15,7 +15,7 @@
  
 ***Especificos*** 
 
-*Conocer el objetivo que establece el teorema de la Máxima Transferencia de Potencia *
+*Conocer el objetivo que establece el teorema de la Máxima Transferencia de Potencia*
 
 *Analizar el comportamiento de un circuito DC mediante la aplicación del principio de la Máxima Transferencia de Potencia*
 
