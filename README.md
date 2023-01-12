@@ -23,6 +23,11 @@
 
 ### 2. MARCO TEÓRICO
 
+Luego de una amplia consulta blibliográfica, hemos realizado los siguientes mapas mentales y conceptuales en donde se explica
+el Teorema de la Máxima Transferencia de Potencia como resumen:
+
+![image](https://user-images.githubusercontent.com/104925648/211950065-b893e42d-0a28-4e1c-afaa-2f76391703c0.png)
+
 
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
