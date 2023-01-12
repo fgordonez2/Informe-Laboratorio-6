@@ -11,11 +11,11 @@
 ***General***
 
 *Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia de un circuito eléctrico, mediante el armado del 
- circuito esquematizado en la guía de laboratorio en forma física y simulada, para demostrar dicho teorema*
+ circuito esquematizado en la guía de laboratorio en forma física y simulada, para validar lo que establece dicho teorema*
  
 ***Especificos*** 
 
-*Conocer los fundamentos básicos de este teorema*
+*Conocer el objetivo que establece el teorema de la Máxima Transferencia de Potencia *
 
 *Analizar el comportamiento de un circuito DC mediante la aplicación del principio de la Máxima Transferencia de Potencia*
 
@@ -41,9 +41,20 @@ el Teorema de la Máxima Transferencia de Potencia como resumen:
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+**INTERROGANTES**
+
+*¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.* 
 
 
+*¿Cuál fue la potencia máxima en RL? 
 
+-La Potencia máxima en RL fue de *** 8 mWatts***
+
+*¿Para qué valor de RL se obtiene la MTP? 
+
+La MTP se obtuvo para los valores en las RL de ***2.2kohm y 1kohm***
+
+*Grafique la curva Potencia vs RL y comente.*
 
 ### 5. VIDEO
 
@@ -51,13 +62,12 @@ el Teorema de la Máxima Transferencia de Potencia como resumen:
 
 ### 6. CONCLUSIONES
 
-*- 
+*-Este teorema establece que dada una fuente, con una resistencia de fuente fijada RS de antemano, la resistencia de carga que maximiza la transferencia de potencia es aquella con un valor óhmico igual a la resistencia de fuente. Lo que quiere decir que RS=RL.* 
 
-*-
+*-En esta practica de laboratorio al momento de aplicar el teorema de máxima transferencia de potencia, y a ver calculado el valor de la potencia de cada resistencia RL, se pudo establecer las RL, que contaban con la máxima potencia, que se pudo deducir por el valor obtenido y relacionándolo con los demás resultados.*
 
-*-
+*-Para el calculo se puede hacer de diferentes maneras de forma simulada, experimental, o teórica, de la manera teórica es mas eficiente hallar los resultados de cada potencia ya que se trabajan con valores ideales que al momento de realizar los cálculos su porcentaje de error será mínimo, y para hacer respectivos cálculos recurrimos a formulas establecidas, las cuales por mencionar son, P=V*I y P=I^2*R. Hay que aclarar que medir por simulación corroboran el resultado obtenido de manera teórica.*
 
-*- 
 
 ### 7._ BIBLIOGRAFÍA
 
