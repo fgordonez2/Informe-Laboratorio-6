@@ -28,7 +28,11 @@ el Teorema de la Máxima Transferencia de Potencia como resumen:
 
 ![image](https://user-images.githubusercontent.com/104925648/211950065-b893e42d-0a28-4e1c-afaa-2f76391703c0.png)
 
+![image](https://user-images.githubusercontent.com/104925648/211960819-1c6e37fe-40f4-4f26-8d02-dd8cb686b0b8.png)
 
+![image](https://user-images.githubusercontent.com/104925648/211960852-344f3360-f02a-43ee-a4ac-b384b44daeee.png)
+
+![image](https://user-images.githubusercontent.com/104925648/211960901-ed159951-128a-44e4-bf99-8b744ddf923e.png)
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
