@@ -81,11 +81,11 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 *¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.* 
 
 
-*¿Cuál fue la potencia máxima en RL? 
+*¿Cuál fue la potencia máxima en RL?* 
 
--La Potencia máxima en RL fue de *** 8 mWatts***
+-La Potencia máxima en RL fue de ***8 mWatts***
 
-*¿Para qué valor de RL se obtiene la MTP? 
+*¿Para qué valor de RL se obtiene la MTP?* 
 
 La MTP se obtuvo para los valores en las RL de ***2.2kohm y 1kohm***
 
