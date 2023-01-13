@@ -80,7 +80,7 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 *¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.* 
 
-***-El teorema de la máxima transferencia de potencia si se cumple, dado a que si hallamos el RL que corresponde a la resistencia de 1k ohm, en donde la potencia es máxima con un valor medido de 8E-3 Watts, y los demas RL su potencia disminuia en comparacion a la antes mencionada, por lo cual en la grafica se puede apreciar de mejor manera la máxima potencia. 
+***-El teorema de la máxima transferencia de potencia si se cumple, dado a que si hallamos el RL que corresponde a la resistencia de 1k ohm, en donde la potencia es máxima con un valor medido de 8E-3 Watts, y los demas RL su potencia disminuia en comparacion a la antes mencionada, por lo cual en la grafica se puede apreciar de mejor manera la máxima potencia.*** 
 
 *¿Cuál fue la potencia máxima en RL?* 
 
