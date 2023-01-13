@@ -93,6 +93,8 @@ La MTP se obtuvo para los valores en las RL de ***2.2kohm y 1kohm***
 
 ![image](https://user-images.githubusercontent.com/116705680/212225427-d8f25660-1bbf-4713-807c-3018cdb5a9b7.png)
 
+Se observa de manera clara que en relacion al aumento de la resistencia se produce un aumento no lineal retardado de la potencia asta un punto maximo donde la poptencia deja de incrementar y comiensa a disminuir la potencia de forma no lineal retardada segun aumenta el valor de la resistenacia, esto sucediendo justo donde la resistencia se encuentra en un intervalo [1000Ohm <= 1200 (Rs) <=1500Ohm].  
+
 ### 5. VIDEO
 
 
