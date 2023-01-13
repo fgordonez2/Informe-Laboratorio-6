@@ -36,8 +36,43 @@ el Teorema de la Máxima Transferencia de Potencia como resumen:
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+6.5.1. Arme el circuito que se muestra en la figura 6.1.
 
+![image](https://user-images.githubusercontent.com/116705680/212225532-42ca29dd-6ab8-4ea2-984c-ea658ea1c911.png)
 
+6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
+
+![image](https://user-images.githubusercontent.com/116705680/212225645-072865b2-99ba-4828-8fdd-0cc492fb60c2.png)
+
+![image](https://user-images.githubusercontent.com/116705680/212225672-cf312350-f70c-4e0c-9fc3-39c1b62798e5.png)
+
+![image](https://user-images.githubusercontent.com/116705680/212225699-b0604bc6-5816-4c4a-9fa8-c5e149d08afa.png)
+
+![image](https://user-images.githubusercontent.com/116705680/212225728-421e918a-f068-4bac-9a12-f9eb90d93cee.png)
+
+![image](https://user-images.githubusercontent.com/116705680/212225756-d7fa1f74-e624-40c5-8883-4b60fc7dfbca.png)
+
+6.5.3. Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
+
+![image](https://user-images.githubusercontent.com/116705680/212225790-26f263cc-9af8-4ec1-a2dc-d20839ef70af.png)
+
+![image](https://user-images.githubusercontent.com/116705680/212225816-e0758ca4-b612-4697-ad5e-f75f981c3ccb.png)
+
+6.5.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.
+
+![image](https://user-images.githubusercontent.com/116705680/212225849-1e315c40-83bd-4a53-adff-80fec6dae827.png)
+
+![image](https://user-images.githubusercontent.com/116705680/212225869-c853e5a8-1fa8-4810-9d25-a5b5e03dda71.png)
+
+![image](https://user-images.githubusercontent.com/116705680/212225888-bf0e6fce-fd61-426d-bf37-16595ad9aa06.png)
+
+![image](https://user-images.githubusercontent.com/116705680/212225904-1672f307-df31-4427-9cd2-302f724b918c.png)
+
+![image](https://user-images.githubusercontent.com/116705680/212225925-1b2e235f-078e-4a1a-a5ad-c7f257024044.png)
+
+Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
+
+![image](https://user-images.githubusercontent.com/116705680/212225955-2978e580-96c4-4d14-8483-c74e153a9e42.png)
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -55,6 +90,8 @@ el Teorema de la Máxima Transferencia de Potencia como resumen:
 La MTP se obtuvo para los valores en las RL de ***2.2kohm y 1kohm***
 
 *Grafique la curva Potencia vs RL y comente.*
+
+![image](https://user-images.githubusercontent.com/116705680/212225427-d8f25660-1bbf-4713-807c-3018cdb5a9b7.png)
 
 ### 5. VIDEO
 
