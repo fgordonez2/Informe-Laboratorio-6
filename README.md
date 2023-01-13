@@ -74,6 +74,22 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 ![image](https://user-images.githubusercontent.com/116705680/212225955-2978e580-96c4-4d14-8483-c74e153a9e42.png)
 
+--------------------------------------------------------------------------------------------------------------------------
+
+*CIRCUITO ARMAMDO DE FORMA FÍSICA*
+
+![image](https://user-images.githubusercontent.com/104925648/212335327-7d4653c9-1c0a-4363-82ac-dd4ae18ad3ad.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212335348-31d2540b-fe58-4363-9a9a-31bee110f6b7.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212335366-a559546b-bc0f-4d5b-962a-85aaa9507120.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212335395-92f3f72a-5bba-456d-adbf-63b6f976c23e.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212335421-b5d47d7a-8079-454c-8ccb-2a9309746f5e.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212335451-566a9c6b-a593-43d1-a1ef-3223510f74fd.png)
+
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 **INTERROGANTES**
@@ -116,7 +132,7 @@ Se observa de manera clara que en relacion al aumento de la resistencia se produ
  
 ### 5. VIDEO
 
-
+- https://youtu.be/_W5_Z27sIzM
 
 ### 6. CONCLUSIONES
 
