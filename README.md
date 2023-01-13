@@ -93,6 +93,26 @@ La MTP se obtuvo para los valores en las RL de ***2.2kohm y 1kohm***
 
 ![image](https://user-images.githubusercontent.com/116705680/212225427-d8f25660-1bbf-4713-807c-3018cdb5a9b7.png)
 
+**Calculo del porcentaje de error.**
+
+*Se realizó el cálculo del porcentaje de error que se tuvo tanto en la medición de Máxima Transferencia de Potencia de todas las RL. Tanto el valor teórico, medido y experimental.*
+
+![image](https://user-images.githubusercontent.com/116774906/212232755-a4b13029-a46f-4834-9117-dbc29504d737.png)
+
+**Realizamos primero el porcentaje de error que hubo entre el valor teórico y valor medido.**
+
+![image](https://user-images.githubusercontent.com/116774906/212232884-e58c22cf-908b-4b29-a7e1-1a692495e3c8.png)
+
+![image](https://user-images.githubusercontent.com/116774906/212232917-fcdd55e1-300a-4e7c-85fc-a7093189d213.png)
+
+**Realizamos primero el porcentaje de error que hubo entre el valor teórico y valor experimental.**
+
+![image](https://user-images.githubusercontent.com/116774906/212232982-0359f842-4bbb-4d93-8973-403b9cc78560.png)
+
+![image](https://user-images.githubusercontent.com/116774906/212233028-3f2bc802-3c00-44e5-9d58-6cdb3a03d1c8.png)
+
+
+
 Se observa de manera clara que en relacion al aumento de la resistencia se produce un aumento no lineal retardado de la potencia asta un punto maximo donde la poptencia deja de incrementar y comiensa a disminuir la potencia de forma no lineal retardada segun aumenta el valor de la resistenacia, esto sucediendo justo donde la resistencia se encuentra en un intervalo [1000Ohm <= 1200 (Rs) <=1500Ohm].  
 
 ### 5. VIDEO
